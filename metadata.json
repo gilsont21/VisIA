@@ -1,0 +1,7 @@
+{
+  "name": "VisIA: Tutor de IA Inclusivo",
+  "description": "Uma inteligência artificial inclusiva e ética para apoiar o ensino de pessoas com deficiência visual. VisIA torna o conhecimento acessível através de conversas, descrições detalhadas e aprendizado personalizado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
