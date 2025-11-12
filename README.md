@@ -1,20 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+O VisIA é uma plataforma criada para tornar o aprendizado mais acessível para pessoas com deficiência visual.
+A ideia é usar inteligência artificial de forma simples e prática, permitindo que o usuário se comunique principalmente por voz (ou texto) com um assistente que responde de forma natural e educativa. Com foco da ferramenta é levar mais dignidade nos estudo para pessoas com deficiência, de modo a ter uma sinergía melhor com tais individuos.
 
-# Run and deploy your AI Studio app
+O primeiro protótipo está sendo desenvolvido no Google AI Studio, explorando as possibilidades de modelos de linguagem em ambientes educacionais inclusivos.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1APDIFODHfF9jjmTVUP5Ag10-zd_tOvml
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+Com o tempo, vou levar o projeto para versões mais completas, desenvolvidas em Python, utilizando Streamlit para a interface e integração com modelos de IA generativa (OpenAI API e Hugging Face).
+A proposta é transformar o VisIA em uma plataforma aberta e em constante aprimoramento, voltada a oferecer experiências de aprendizado mais humanas, acessíveis e personalizadas.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Em desenvolvimento (versão inicial – VisIA Lite)
